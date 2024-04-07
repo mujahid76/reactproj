@@ -1,0 +1,48 @@
+.payment-container {
+  padding: 15px;
+}
+
+.payment-card {
+  display: flex;
+  gap: 25px;
+  margin: 35px 5px;
+}
+
+.paper-card {
+  width: 25%;
+  text-align: justify;
+  padding: 10px;
+  border-radius: 9px;
+}
+
+.rcmd-card {
+  display: flex;
+  background-color: blue;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 4px;
+  padding: 5px 0px 0px;
+  margin-top: 25px;
+}
+
+.rcmd-text {
+  margin-top: 2px;
+}
+
+.align-heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h1-margin {
+  margin-top: 2px;
+}
+
+.text-strick {
+  text-decoration: line-through;
+}
+
+.list-padding {
+  padding: 12px;
+}

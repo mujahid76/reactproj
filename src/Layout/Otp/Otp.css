@@ -1,0 +1,30 @@
+.otp-title-card {
+  width: 70%;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.otp-img-card {
+  width: 50vw;
+  height: 95vh;
+}
+
+.otp-input-box-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.resend-otp-container{
+  margin-top: 10px;
+  justify-content: center !important;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
+
+.otp-expries-container{
+  margin: 0px !important;
+  padding: 6px 8px !important;
+}

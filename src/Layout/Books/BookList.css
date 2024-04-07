@@ -1,0 +1,11 @@
+.booklist {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    width: 100px;
+    height: 150px;
+  }

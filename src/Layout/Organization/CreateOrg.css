@@ -1,0 +1,68 @@
+.org-heading {
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  /* background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 3px; */
+  margin: auto;
+}
+
+.org-p-heading {
+  margin-top: 20px;
+}
+
+/* .org-heading-btn {
+  margin-top: 0px;
+  border: 1px solid red;
+} */
+
+.org-box {
+  /* border: 1px solid blue; */
+  width: 50%;
+  /* height: 39%; */
+  /* background-color: green; */
+}
+
+.org-top-container {
+  margin: 30px 0px;
+  width: 90%;
+}
+
+.org-p-content {
+  padding: 10px 0;
+}
+
+.btn-org {
+  width: 98%;
+}
+
+.org-img-card {
+  width: 550px;
+  height: 200px;
+  object-fit: cover;
+  margin-top: 30px;
+}
+
+.org-text-center {
+  text-align: center;
+}
+
+.org-list-container {
+  width: 100%;
+}
+
+.org-list-btn {
+  color: white;
+  background-color: blue;
+  justify-content: center;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+.org-card-btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
